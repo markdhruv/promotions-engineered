@@ -8,7 +8,7 @@ A subscription service with a catalog (games, shows, films, music) has to decide
 
 Promotions, Engineered makes those decisions from the catalog data. It gives every post a purpose (launch, discover or re-engage), places it in the right channel's slot, drafts copy that follows the brand's rules, writes a creative brief for the design team, and hands everyone one Excel calendar.
 
-<!-- Add a short screen recording here before publishing: docs/demo.gif -->
+https://github.com/user-attachments/assets/ba10cb5c-70b5-4eac-bdb7-a11f6481f61c
 
 ## Try it
 
