@@ -1,0 +1,7 @@
+{
+  "name": "promotions-engineered",
+  "version": "1.0.0",
+  "description": "Plan a month of marketing programming across push, social and community channels from a catalog CSV, with brand-safe draft copy and an Excel export.",
+  "license": "MIT",
+  "keywords": ["marketing", "content calendar", "push notifications", "social media", "programming", "crm"]
+}

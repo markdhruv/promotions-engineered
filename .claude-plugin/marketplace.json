@@ -1,0 +1,11 @@
+{
+  "name": "promotions-engineered",
+  "owner": { "name": "markdhruv" },
+  "plugins": [
+    {
+      "name": "promotions-engineered",
+      "source": "./plugins/promotions-engineered",
+      "description": "Plan a month of marketing programming across push, social and community channels from a catalog CSV, with brand-safe draft copy and an Excel export."
+    }
+  ]
+}
